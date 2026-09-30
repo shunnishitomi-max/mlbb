@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "MPL PH Draft Coach",
+    "slug": "mpl-ph-draft-coach",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "mplphdraft",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.mplph.draftcoach",
+      "versionCode": 1
+    },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
