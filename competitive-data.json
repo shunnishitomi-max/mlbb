@@ -1,0 +1,15 @@
+{
+  "version": "2026-10-01-safe-seed",
+  "generated_at": "2026-10-01T05:11:00+08:00",
+  "scope": {
+    "MPL PH": "Season 17, Week 6 through latest completed official match",
+    "MPL ID": "Season 17, Week 6 through latest completed official match",
+    "Asian Games 2026": "Completed official MLBB matches"
+  },
+  "records": [],
+  "sources": [
+    {"competition":"MPL PH","url":"https://liquipedia.net/mobilelegends/MPL/Philippines/Season_17/Regular_Season","status":"reference only; per-game verified feed not bundled"},
+    {"competition":"MPL ID","url":"https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_17/Regular_Season","status":"reference only; per-game verified feed not bundled"},
+    {"competition":"Asian Games 2026","url":"https://liquipedia.net/mobilelegends/Asian_Games/2026","status":"reference only; per-game verified feed not bundled"}
+  ]
+}
