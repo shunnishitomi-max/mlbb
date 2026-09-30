@@ -21,6 +21,9 @@ jobs:
           cp web/index.html _site/index.html
           cp web/styles.css _site/styles.css
           cp web/app.js _site/app.js
+          cp web/hero-roster.js _site/hero-roster.js
+          cp web/season-meta.js _site/season-meta.js
+          cp web/meta-enhancements.js _site/meta-enhancements.js
           cp competitive-data.json _site/competitive-data.json
           touch _site/.nojekyll
       - name: Setup Pages
